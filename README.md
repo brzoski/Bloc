@@ -1,4 +1,4 @@
-# bloc
+# Bloc
 
 A new Flutter project.
 
